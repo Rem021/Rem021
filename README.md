@@ -8,9 +8,7 @@
 
 | Project | What it does / 用途 | Start |
 | :--- | :--- | :--- |
-| **[Agent Slim](https://github.com/Rem021/agent-slim)** | Find old build files and developer caches · 查找旧构建产物与开发缓存 | [Read-only scan](https://github.com/Rem021/agent-slim#quick-start) |
-| **[Agent Governor](https://github.com/Rem021/agent-governor)** | Check agent instructions and organize temporary work · 检查 Agent 规则、整理临时文件 | [Audit a workspace](https://github.com/Rem021/agent-governor#try-a-read-only-audit) |
-| **[Orca Multi-Agent Blueprint](https://github.com/Rem021/orca-multi-agent-blueprint)** | Organize coding agents, Git worktrees, and backups on macOS · 管理 Mac 上的多 Agent 工作环境 | [Preview the setup](https://github.com/Rem021/orca-multi-agent-blueprint#preview-first) |
+| **[Orca Multi-Agent Blueprint](https://github.com/Rem021/orca-multi-agent-blueprint)** | Organize coding agents, file governance, Git worktrees, and backups on macOS · 管理 Mac 上的多 Agent 部署、文件治理与备份 | [Preview the setup](https://github.com/Rem021/orca-multi-agent-blueprint#preview-first) |
 | **[Workspace Naming Guard](https://github.com/Rem021/workspace-naming-guard)** | Add project names to Orca workspace titles · 自动补上工作区的项目名称 | [Install the plugin](https://github.com/Rem021/workspace-naming-guard#install) |
 
 ## Games and utilities · 游戏与实用工具
